@@ -1,0 +1,49 @@
+body{background-image: url(hatter.png);
+    background-attachment:fixed;
+    background-size: 100%;
+    background-repeat:repeat-y;
+    color: #504033;
+    font-family: 'Lucida Console', 'Monaco', 'monospace';
+    font-size: large;
+    margin-left: 315px;
+    margin-right: 315px;
+    line-height: 1.5;
+}
+.keret{
+    background-color: rgba(255, 255, 255, 0.80);
+    padding: 15px;
+}
+h1,h2{
+    text-decoration: underline;
+    font-size: xx-large;
+    text-align: center;
+}
+p{
+    text-indent: 25px;
+}
+#emlek{
+    width: 180px;
+    float: left;
+    margin-right: 15px;
+    border: 15px solid #504033;
+    border-style: outset;
+}
+.paprika{
+    height: 300px;
+    float: left;
+
+}
+ul{
+    list-style-image: url(dot.png);
+}
+hr{
+    height: 5px;
+    width: 90%;
+    background-color: #504033;
+    box-shadow: black 2px 2px;
+}
+#ne{
+    background-color: rgba(240, 248, 255, 0);
+    box-shadow: none;
+    color: #00000000;
+}
